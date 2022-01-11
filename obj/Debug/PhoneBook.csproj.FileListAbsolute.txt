@@ -1,0 +1,8 @@
+D:\emf\.net development\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\emf\.net development\PhoneBook\bin\Debug\PhoneBook.exe
+D:\emf\.net development\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\emf\.net development\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+D:\emf\.net development\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+D:\emf\.net development\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\emf\.net development\PhoneBook\obj\Debug\PhoneBook.exe
+D:\emf\.net development\PhoneBook\obj\Debug\PhoneBook.pdb
